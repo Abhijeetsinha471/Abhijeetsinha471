@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Sinha</h1>
 <h3 align="center">I am Aspiring Full-Stack-Web Developer</h3>
 
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fd3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b%2F68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwiXxJqX946BAxUJ0KACHRB3BHoQMyhOegUIARDEAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2Ftejan-singh%2Ftejan-singh&docid=lYBR3bjdSSM0oM&w=800&h=600&q=Free%20animated%20coding%20images&ved=2ahUKEwiXxJqX946BAxUJ0KACHRB3BHoQMyhOegUIARDEAg")
+<img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetsinha471" alt="abhijeetsinha471" /></a> </p>
 
