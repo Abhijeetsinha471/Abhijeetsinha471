@@ -5,14 +5,10 @@
 <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
 
 
-
-
 - 🌱 I’m currently learning **ServiceNow CSA, ITSM, ITIL**
-
 - 👨‍💻 All of my projects are available at [https://verdant-jelly-feb1cf.netlify.app](https://verdant-jelly-feb1cf.netlify.app)
-
+-  💬 Ask me about **Full-Stack Web Development , MEARN **
 - 📫 How to reach me **Sinhaabhijeet978@gmail.com**
-
 - ⚡ Fun fact **I Think I like learn through collaborations.**
 
 <h3 align="left">Connect with me:</h3>
