@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Sinha</h1>
 <h3 align="center">I am Aspiring Full-Stack-Web Developer</h3>
 
+I am an aspiring Full Stack Web Developer.
+I am a hardworking person who can work under pressure, I'm a fast learner, a
+team player, and I'm very passionate about Full - Stack-web development.
+Reliable, trustworthy, punctual, and trying to keep myself updated with new
+technology in the web development field.
+
+
 <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
 
 
