@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Sinha</h1>
 <h3 align="center">I am Aspiring Full-Stack-Web Developer</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg1.pnghut.com%2F14%2F7%2F25%2F1eRaWyzuVN%2Fdata-protection-male-cartoon-human-behavior-personal-computer.jpg&tbnid=y-NX4sWUJ_d_YM&vet=12ahUKEwjQgqzI9o6BAxUSpukKHRQKAkgQMygzegUIARDhAQ..i&imgrefurl=https%3A%2F%2Fpnghut.com%2Fpng%2F1eRaWyzuVN%2Fillustration-clip-art-cartoon-text-product-design-data-protection-php-coding-people-transparent-png&docid=xLiU2Ac3nqvI_M&w=830&h=480&q=coding%20images%20cartoon&ved=2ahUKEwjQgqzI9o6BAxUSpukKHRQKAkgQMygzegUIARDhAQ")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetsinha471" alt="abhijeetsinha471" /></a> </p>
 
